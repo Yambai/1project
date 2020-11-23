@@ -1,0 +1,31 @@
+#26ff00				body {
+				
+}<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<link rel="stylesheet" href="css.css">
+  <head>
+    <meta charset="utf-8">
+    <title>Domashka</title>
+  </head>
+
+  <body>
+<div class="obl">
+  <audio id="myTune">
+    <source src="WhiteChristmas.mp3">
+    <source src="WhiteChristmas.ogg">
+  </audio>
+<p>  <button onclick="document.location='https://vk.com/vagosgg'" class="title script button" >Мне</button></p>
+<p>  <button class="title shadow text1 button" onclick="document.getElementById('myTune').play()">НРАВИТСЯ ЗАДНИЙ</button></p>
+<p>  <button onclick="document.location='https://vk.com/wolknewolk'" class="title shadow button text2">ФОН</button></p>
+<p><button onclick="document.location='https://vk.com/wolknewolk'" class="title button shadow text3">А КТО ПРОТИВ</button></p>
+<p>  <button onclick="document.location='https://vk.com/wolknewolk'" class="title button shadow text4">ТОТ ПРОТИВ</button></p>
+<p>  <button onclick="document.location='https://vk.com/wolknewolk'" class="title shadow button text5">А КТО НЕ ПРОТИВ</button></p>
+<p>    <button onclick="document.location='https://vk.com/wolknewolk'" class="title button  shadow text5">ТОТ НЕ ПРОТИВ</button></p>
+<p>  <button onclick="document.location='https://i.ytimg.com/vi/eID8mesV5PM/mqdefault.jpg'" class="title button script">АУФ</button></p>
+<p class="title button shadow text5"><button type="button" onclick="document.location='https://vk.com/bro_ural'" class="title button shadow out text5"  name="button">author</button></p>
+
+
+
+</div>
+  </body>
+</html>
